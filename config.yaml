@@ -1,0 +1,89 @@
+# AegisGraph Configuration — Source of truth for all hyperparameters
+project:
+  name: "AegisGraph"
+  institution: "Vishwakarma University, Pune"
+  course: "Computer Networks Project"
+  version: "2.0.0"
+
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  # Hard cap: total flows in the working sample (scale up by changing this alone)
+  sample_size: 5000
+  # Time window size for graph construction (seconds)
+  time_window_seconds: 60
+  classes:
+    - "Benign"
+    - "DoS"
+    - "DDoS"
+    - "PortScan"
+    - "Botnet"
+    - "BruteForce"
+    - "Other attack"
+  # Merge any non-Benign class with fewer flows than this into "Other attack"
+  rare_class_threshold: 50
+  split:
+    train_ratio: 0.70
+    val_ratio: 0.10
+    test_ratio: 0.20
+  # Attack periods in the raw CSV (CIC-IDS2017 contiguous sample)
+  # Each period is a contiguous block of rows in the CSV.
+  attack_periods:
+    - name: "DDoS"
+      raw_labels: ["DDoS"]
+      canonical: "DDoS"
+    - name: "PortScan"
+      raw_labels: ["PortScan"]
+      canonical: "PortScan"
+    - name: "BruteForce"
+      raw_labels: ["FTP-Patator"]
+      canonical: "BruteForce"
+    - name: "DoS"
+      raw_labels: ["DoS Hulk", "DoS slowloris", "DoS Slowhttptest"]
+      canonical: "DoS"
+    - name: "Botnet"
+      raw_labels: ["Bot"]
+      canonical: "Botnet"
+    - name: "WebAttacks"
+      raw_labels: ["Web Attack"]
+      canonical: "Other attack"
+
+graph:
+  node_feature_dim: 8
+  edge_feature_dim: 24
+  use_degree_features: true
+  randomize_node_ids: true
+
+training:
+  seeds: [42, 123, 456, 789, 999]
+  epochs: 50
+  batch_size: 4  # graphs per batch
+  learning_rate: 0.003
+  weight_decay: 1.0e-4
+  loss_type: "focal"  # "weighted_ce" or "focal"
+  focal_gamma: 2.0
+  device: "cpu"  # "cuda" or "cpu"
+
+models:
+  baselines:
+    - "RandomForest"
+    - "MLP"
+    - "GraphAugmentedRF"
+  gnns:
+    - "GCN"
+    - "GraphSAGE"
+    - "GAT"
+    - "E-GraphSAGE"
+  hidden_dim: 64
+  edge_head_hidden: 64
+  dropout: 0.2
+
+artifacts:
+  dir: "artifacts"
+  metrics_file: "artifacts/metrics.json"
+  curves_file: "artifacts/roc_pr_curves.json"
+  feature_importance_file: "artifacts/feature_importance.json"
+  embeddings_file: "artifacts/embeddings_2d.json"
+  sample_graph_file: "artifacts/sample_graph.json"
+  explanations_file: "artifacts/explanations.json"
+  models_dir: "artifacts/models"

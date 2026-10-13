@@ -1,0 +1,98 @@
+[
+  {
+    "feature": "pkt_sz_max_fwd",
+    "importance": 0.1388
+  },
+  {
+    "feature": "tot_bytes",
+    "importance": 0.1248
+  },
+  {
+    "feature": "pkt_sz_avg",
+    "importance": 0.1169
+  },
+  {
+    "feature": "port_web",
+    "importance": 0.0742
+  },
+  {
+    "feature": "bytes_per_sec",
+    "importance": 0.0732
+  },
+  {
+    "feature": "port_wellknown",
+    "importance": 0.0695
+  },
+  {
+    "feature": "pkts_per_sec",
+    "importance": 0.0671
+  },
+  {
+    "feature": "flow_duration",
+    "importance": 0.063
+  },
+  {
+    "feature": "pkt_sz_max_bwd",
+    "importance": 0.053
+  },
+  {
+    "feature": "tot_pkts",
+    "importance": 0.0502
+  },
+  {
+    "feature": "port_registered",
+    "importance": 0.0382
+  },
+  {
+    "feature": "flag_psh",
+    "importance": 0.0334
+  },
+  {
+    "feature": "flag_urg",
+    "importance": 0.0196
+  },
+  {
+    "feature": "proto_udp",
+    "importance": 0.018
+  },
+  {
+    "feature": "flag_ack",
+    "importance": 0.0175
+  },
+  {
+    "feature": "proto_tcp",
+    "importance": 0.0172
+  },
+  {
+    "feature": "flag_syn",
+    "importance": 0.017
+  },
+  {
+    "feature": "port_dns",
+    "importance": 0.0036
+  },
+  {
+    "feature": "port_ephemeral",
+    "importance": 0.0035
+  },
+  {
+    "feature": "flag_fin",
+    "importance": 0.001
+  },
+  {
+    "feature": "port_remote",
+    "importance": 0.0003
+  },
+  {
+    "feature": "flag_rst",
+    "importance": 0.0
+  },
+  {
+    "feature": "proto_other",
+    "importance": 0.0
+  },
+  {
+    "feature": "port_mail",
+    "importance": 0.0
+  }
+]

@@ -1,0 +1,1067 @@
+{
+  "window_id": 18,
+  "period": "DDoS",
+  "elements": [
+    {
+      "data": {
+        "id": "node_0",
+        "label": "192.168.10.107",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_1",
+        "label": "192.168.10.235",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_2",
+        "label": "192.168.10.226",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_3",
+        "label": "192.168.10.134",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_4",
+        "label": "192.168.10.248",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_5",
+        "label": "192.168.10.120",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_6",
+        "label": "192.168.10.164",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_7",
+        "label": "192.168.10.216",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_8",
+        "label": "192.168.10.50",
+        "degree": 0.8553332090377808
+      }
+    },
+    {
+      "data": {
+        "id": "node_9",
+        "label": "192.168.10.246",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_10",
+        "label": "192.168.10.195",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_11",
+        "label": "192.168.10.198",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_12",
+        "label": "192.168.10.238",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_13",
+        "label": "192.168.10.147",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_14",
+        "label": "192.168.10.151",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_15",
+        "label": "192.168.10.227",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_16",
+        "label": "192.168.10.169",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_17",
+        "label": "192.168.10.215",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_18",
+        "label": "192.168.10.119",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_19",
+        "label": "192.168.10.124",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_20",
+        "label": "192.168.10.133",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_21",
+        "label": "192.168.10.100",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_22",
+        "label": "192.168.10.203",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_23",
+        "label": "192.168.10.129",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_24",
+        "label": "192.168.10.136",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_25",
+        "label": "192.168.10.116",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_26",
+        "label": "192.168.10.111",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_27",
+        "label": "192.168.10.237",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_28",
+        "label": "192.168.10.108",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_29",
+        "label": "192.168.10.103",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_30",
+        "label": "192.168.10.244",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_31",
+        "label": "192.168.10.163",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_32",
+        "label": "192.168.10.197",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_33",
+        "label": "192.168.10.166",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_34",
+        "label": "192.168.10.137",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_35",
+        "label": "192.168.10.168",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_36",
+        "label": "192.168.10.242",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_37",
+        "label": "192.168.10.145",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_38",
+        "label": "192.168.10.222",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_39",
+        "label": "192.168.10.184",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_40",
+        "label": "192.168.10.212",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_41",
+        "label": "192.168.10.160",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_42",
+        "label": "192.168.10.170",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_43",
+        "label": "192.168.10.104",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_44",
+        "label": "192.168.10.217",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_45",
+        "label": "192.168.10.234",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_46",
+        "label": "192.168.10.213",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_47",
+        "label": "192.168.10.201",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_48",
+        "label": "192.168.10.208",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_49",
+        "label": "192.168.10.146",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_50",
+        "label": "192.168.10.172",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_51",
+        "label": "192.168.10.180",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_52",
+        "label": "192.168.10.130",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_53",
+        "label": "192.168.10.115",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_54",
+        "label": "192.168.10.181",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_55",
+        "label": "192.168.10.127",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_56",
+        "label": "192.168.10.118",
+        "degree": 0.2197224646806717
+      }
+    },
+    {
+      "data": {
+        "id": "node_57",
+        "label": "192.168.10.110",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_58",
+        "label": "192.168.10.102",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "node_59",
+        "label": "192.168.10.121",
+        "degree": 0.13862943649291992
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0",
+        "source": "node_32",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_1",
+        "source": "node_25",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_2",
+        "source": "node_54",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_3",
+        "source": "node_56",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_4",
+        "source": "node_39",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_5",
+        "source": "node_55",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_6",
+        "source": "node_30",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7",
+        "source": "node_44",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_8",
+        "source": "node_31",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_9",
+        "source": "node_7",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_10",
+        "source": "node_57",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_11",
+        "source": "node_49",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_12",
+        "source": "node_4",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_13",
+        "source": "node_12",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_14",
+        "source": "node_43",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_15",
+        "source": "node_18",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_16",
+        "source": "node_37",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_17",
+        "source": "node_26",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_18",
+        "source": "node_25",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_19",
+        "source": "node_9",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_20",
+        "source": "node_13",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_21",
+        "source": "node_14",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_22",
+        "source": "node_16",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_23",
+        "source": "node_47",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_24",
+        "source": "node_36",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_25",
+        "source": "node_54",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_26",
+        "source": "node_29",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_27",
+        "source": "node_48",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_28",
+        "source": "node_13",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_29",
+        "source": "node_50",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_30",
+        "source": "node_17",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_31",
+        "source": "node_51",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_32",
+        "source": "node_40",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_33",
+        "source": "node_10",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_34",
+        "source": "node_9",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_35",
+        "source": "node_34",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_36",
+        "source": "node_35",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_37",
+        "source": "node_52",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_38",
+        "source": "node_46",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_39",
+        "source": "node_59",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_40",
+        "source": "node_33",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_41",
+        "source": "node_27",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_42",
+        "source": "node_31",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_43",
+        "source": "node_5",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_44",
+        "source": "node_3",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_45",
+        "source": "node_23",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_46",
+        "source": "node_49",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_47",
+        "source": "node_56",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_48",
+        "source": "node_0",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_49",
+        "source": "node_40",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_50",
+        "source": "node_42",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_51",
+        "source": "node_45",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_52",
+        "source": "node_6",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_53",
+        "source": "node_19",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_54",
+        "source": "node_21",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_55",
+        "source": "node_24",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_56",
+        "source": "node_1",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_57",
+        "source": "node_15",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_58",
+        "source": "node_2",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_59",
+        "source": "node_3",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_60",
+        "source": "node_22",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_61",
+        "source": "node_28",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_62",
+        "source": "node_15",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_63",
+        "source": "node_47",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_64",
+        "source": "node_11",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_65",
+        "source": "node_58",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_66",
+        "source": "node_20",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_67",
+        "source": "node_41",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_68",
+        "source": "node_38",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_69",
+        "source": "node_53",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    },
+    {
+      "data": {
+        "id": "edge_70",
+        "source": "node_30",
+        "target": "node_8",
+        "label": "DDoS",
+        "is_attack": true
+      }
+    }
+  ],
+  "num_nodes": 60,
+  "num_edges": 71
+}

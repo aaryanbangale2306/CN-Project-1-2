@@ -1,0 +1,247 @@
+[
+  {
+    "target_edge_id": 0,
+    "predicted_class": "DoS",
+    "confidence": 0.3088,
+    "source_node": 32,
+    "target_node": 8,
+    "reason": "Flagged due to sustained asymmetric volumetric packets from (192.168.10.197) depleting server connection state on (192.168.10.50).",
+    "top_contributing_edges": [
+      {
+        "edge_id": 1,
+        "source_node": 25,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 2,
+        "source_node": 54,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 3,
+        "source_node": 56,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 4,
+        "source_node": 39,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 5,
+        "source_node": 55,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      }
+    ],
+    "subgraph_summary": {
+      "total_neighbor_flows": 71,
+      "top_ranked_analyzed": 5
+    }
+  },
+  {
+    "target_edge_id": 1,
+    "predicted_class": "DoS",
+    "confidence": 0.3159,
+    "source_node": 25,
+    "target_node": 8,
+    "reason": "Flagged due to sustained asymmetric volumetric packets from (192.168.10.116) depleting server connection state on (192.168.10.50).",
+    "top_contributing_edges": [
+      {
+        "edge_id": 0,
+        "source_node": 32,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 2,
+        "source_node": 54,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 3,
+        "source_node": 56,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 4,
+        "source_node": 39,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 5,
+        "source_node": 55,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      }
+    ],
+    "subgraph_summary": {
+      "total_neighbor_flows": 71,
+      "top_ranked_analyzed": 5
+    }
+  },
+  {
+    "target_edge_id": 2,
+    "predicted_class": "DoS",
+    "confidence": 0.3159,
+    "source_node": 54,
+    "target_node": 8,
+    "reason": "Flagged due to sustained asymmetric volumetric packets from (192.168.10.181) depleting server connection state on (192.168.10.50).",
+    "top_contributing_edges": [
+      {
+        "edge_id": 0,
+        "source_node": 32,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 1,
+        "source_node": 25,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 3,
+        "source_node": 56,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 4,
+        "source_node": 39,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 5,
+        "source_node": 55,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      }
+    ],
+    "subgraph_summary": {
+      "total_neighbor_flows": 71,
+      "top_ranked_analyzed": 5
+    }
+  },
+  {
+    "target_edge_id": 3,
+    "predicted_class": "DoS",
+    "confidence": 0.3131,
+    "source_node": 56,
+    "target_node": 8,
+    "reason": "Flagged due to sustained asymmetric volumetric packets from (192.168.10.118) depleting server connection state on (192.168.10.50).",
+    "top_contributing_edges": [
+      {
+        "edge_id": 0,
+        "source_node": 32,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 1,
+        "source_node": 25,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 2,
+        "source_node": 54,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 4,
+        "source_node": 39,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 5,
+        "source_node": 55,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      }
+    ],
+    "subgraph_summary": {
+      "total_neighbor_flows": 71,
+      "top_ranked_analyzed": 5
+    }
+  },
+  {
+    "target_edge_id": 4,
+    "predicted_class": "DDoS",
+    "confidence": 0.3732,
+    "source_node": 39,
+    "target_node": 8,
+    "reason": "Flagged because 71 coordinated flows converged on target server (192.168.10.50) simultaneously, overwhelming bandwidth capacity.",
+    "top_contributing_edges": [
+      {
+        "edge_id": 0,
+        "source_node": 32,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 1,
+        "source_node": 25,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 2,
+        "source_node": 54,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 3,
+        "source_node": 56,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      },
+      {
+        "edge_id": 5,
+        "source_node": 55,
+        "target_node": 8,
+        "importance_score": 0.0,
+        "flow_type": "DDoS"
+      }
+    ],
+    "subgraph_summary": {
+      "total_neighbor_flows": 71,
+      "top_ranked_analyzed": 5
+    }
+  }
+]
